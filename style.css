@@ -1,0 +1,61 @@
+
+* {
+
+    font-family: 'Francois One','Muli', sans-serif;
+}
+
+
+.jumbotron {
+    background:url("http://doanarae.com/doanarae/10020-high-definition-galaxy-wallpapers_41531.jpg");
+    color:white; 
+    background-size: cover;
+    text-shadow: 2px 2px 8px #FF0000;
+    
+}
+
+.nav-link {
+    color:white;
+}
+
+hr {
+    color:white;
+}
+
+
+.phase {
+    border-bottom: 2px solid grey;
+    margin-bottom: 2rem;
+    width:80%;
+    margin-left:7%;
+    color:white;
+    text-shadow: 2px 2px 8px #FF0000;
+    
+}
+
+.card {
+    width:20rem
+}
+
+#card-top-image {
+    width: 100%
+}
+
+.card-text {
+    line-height: 8px;
+}
+
+body {
+    background:url("http://hdblackwallpaper.com/wallpaper/2015/05/hd-black-background-15-desktop-wallpaper.jpg");
+    background-size:cover;
+}
+
+.navbar {
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    z-index: 9999;
+}
+
+.cardtitle.card-text {
+      text-decoration: none;
+  }
